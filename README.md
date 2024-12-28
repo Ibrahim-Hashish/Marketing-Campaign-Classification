@@ -4,7 +4,7 @@ This app predicts whether a customer will respond to a marketing campaign based 
 **Getting Started:**
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/Ahmed-7-ML/Marketing_Campign.git
+    [https://github.com/Ibrahim-Hashish/Marketing-Campaign-Classification.git]
 
 2. Install dependencies:
    pip install -r requirements.txt
